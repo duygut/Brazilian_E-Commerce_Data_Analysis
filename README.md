@@ -28,7 +28,7 @@ In this section, Top 10 product, Top 10 seller and payments have been detailed.
 
 ### Dependencies:
 
-* Pandas
-* NumPy
-* Seaborn
-* Matplotlib
+* [Pandas](https://pandas.pydata.org)
+* [NumPy](https://numpy.org)
+* [Seaborn](https://seaborn.pydata.org)
+* [Matplotlib](https://matplotlib.org)
